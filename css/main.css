@@ -47,6 +47,13 @@ body {
     font-size: 1rem;
 }
 
+.menu-social i.bi{
+
+    font-size: 1.8rem;
+    color: white;
+}
+
+
 .menu-link, .info-contact {
     color: #999999;
     text-decoration: none;
